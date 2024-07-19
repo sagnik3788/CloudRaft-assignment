@@ -1,0 +1,29 @@
+{
+  "name": "cloudraft-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagnik3788/CloudRaft-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagnik3788/CloudRaft-assignment/issues"
+  },
+  "homepage": "https://github.com/sagnik3788/CloudRaft-assignment#readme",
+  "dependencies": {
+    "@tensorflow-models/mobilenet": "^2.1.1",
+    "@tensorflow/tfjs-node": "^4.20.0",
+    "express": "^4.19.2",
+    "install": "^0.13.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.4",
+    "npm": "^10.8.2",
+    "uuid": "^10.0.0"
+  }
+}
