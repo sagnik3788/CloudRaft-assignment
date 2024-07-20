@@ -48,7 +48,6 @@ This project is an implementation of the CloudRaft assignment for creating a bac
          "uid": "6569841",
          "category": "labrador" 
        },
-       // ... more images
      ]
      ```
 
