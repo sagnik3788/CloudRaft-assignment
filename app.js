@@ -24,8 +24,8 @@ async function loadModel() {
 loadModel();
 
 //Health check
-app.get('/health', (req, res) => {
-  res.send('server is up');
+app.get('/', (req, res) => {
+  res.send('<h1>Server is up</h1>');
 });
 
 //GET /model
