@@ -123,7 +123,10 @@ The application will be accessible at `http://localhost:3000`.
 
 ## Notes
 
-- This implementation uses MobileNet as a pre-trained model to simulate dog breed classification. In a production environment, you would use a model specifically trained for dog breed identification.
+- For simplicity using local  storage to to store the downloaded images but in prod should use s3 bucket
+- Images will be stored within the Docker container's filesystem.
+- Data will be lost when the container is removed.
+ - To persist data and access it from the host system, we should mount a host directory to the container's `uploads` directory
 
 
 
