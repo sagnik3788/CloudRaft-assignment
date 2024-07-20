@@ -1,5 +1,4 @@
 
-```markdown
 # CloudRaft Assignment - Image Classification Service
 
 This project is an implementation of the CloudRaft assignment for creating a backend application with a pre-trained model for image classification. The application allows users to upload images, classify them into categories (simulating dog breed classification), and query the uploaded images.
