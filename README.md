@@ -11,9 +11,9 @@ This project is an implementation of the CloudRaft assignment for creating a bac
 
 [Live Demo](https://cloudraft-assignment.onrender.com/)
 
-## API Documentation
+## Postman API Documentation 
 
-Base URL: `https://cloudraft-assignment.onrender.com`
+[Documentation](https://documenter.getpostman.com/view/26302198/2sA3kUGNFk)
 
 ### Endpoints
 
@@ -46,7 +46,7 @@ Base URL: `https://cloudraft-assignment.onrender.com`
      [
        {
          "uid": "6569841",
-         "category": "labrador"
+         "category": "labrador" 
        },
        // ... more images
      ]
