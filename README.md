@@ -5,7 +5,7 @@ This project is an implementation of the CloudRaft assignment for creating a bac
 
 ## video
 
-[Video]()
+[Video](https://drive.google.com/file/d/1b6eKDgy6Y8KOB4NyS3qC5TpcDxuDG_Pk/view?usp=drive_link)
 
 ## Demo
 
